@@ -6,5 +6,8 @@
   "repository": "git@github.com:11zouzouzou/filamentDemo.git",
   "author": "zouzouzou",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "jsdemodev":"cd ./filamentJSDemo && yarn dev"
+  }
 }
