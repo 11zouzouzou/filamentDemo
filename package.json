@@ -1,0 +1,10 @@
+{
+  "name": "filamentdemo",
+  "version": "1.0.0",
+  "description": "filamenttestdemo",
+  "main": "none",
+  "repository": "git@github.com:11zouzouzou/filamentDemo.git",
+  "author": "zouzouzou",
+  "license": "MIT",
+  "private": true
+}
