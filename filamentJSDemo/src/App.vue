@@ -7,13 +7,13 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 import HelloWorld from './components/HelloWorld.vue'
-import TriangleDemo from './components/TriangleDemo.vue' 
+import TriangleDemo from './components/TriangleDemo.vue'
 
 export default defineComponent({
   name: 'App',
   components: {
     HelloWorld,
-    TriangleDemo 
+    TriangleDemo
   }
 })
 </script>

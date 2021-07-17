@@ -2,6 +2,7 @@
   <h1>{{ msg }}</h1>
 
   <button type="button" @click="count++">count is: {{ count }}</button>
+  <canvas id='triangle'></canvas>
 </template>
 
 <script lang="ts">
